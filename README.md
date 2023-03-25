@@ -17,3 +17,4 @@ Cette application vous permet de suivre le temps passé sur vos projets.
 * Les données sont enregistrées dans une base de données sqlite3 et seront conservées même après avoir fermé l'application.
 * Le temps est affiché sous la forme HH:MM:SS (heures : minutes : secondes).
 * Toujours en développement je compte l'améliorer en ajoutant d'autres fonctionnalités 
+![timeTrackingC1](https://user-images.githubusercontent.com/82214916/227678300-0022880f-9f52-4d2d-8b1d-0347c7c90264.png)
